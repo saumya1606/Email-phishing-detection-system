@@ -1,8 +1,9 @@
 
 # Email Spam Detection and Phishing URL Classification
 
-A BTech/college mini-project that combines Machine Learning, NLP, Cybersecurity, and Flask.
-
+A BTech/college second /third year  mini-project that combines Machine Learning, NLP, Cybersecurity, and Flask.
+Basically NLP has been used here for understanding and recongnising the human tone 
+and unusual patterns properly , instead of just taking a decision based on a single keyword , and ML has been used for phishing detection .
 ## Features
 
 - Email Spam / Ham classification
